@@ -1,0 +1,16 @@
+D:\GaMa\C#\ConsoleAposentadoria\ConsoleAposentadoria\bin\Debug\ConsoleAposentadoria.exe.config
+D:\GaMa\C#\ConsoleAposentadoria\ConsoleAposentadoria\bin\Debug\ConsoleAposentadoria.exe
+D:\GaMa\C#\ConsoleAposentadoria\ConsoleAposentadoria\bin\Debug\ConsoleAposentadoria.pdb
+D:\GaMa\C#\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.csproj.AssemblyReference.cache
+D:\GaMa\C#\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.csproj.SuggestedBindingRedirects.cache
+D:\GaMa\C#\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.csproj.CoreCompileInputs.cache
+D:\GaMa\C#\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.exe
+D:\GaMa\C#\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.pdb
+C:\Users\PICHAU\Desktop\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\PICHAU\Desktop\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.exe
+C:\Users\PICHAU\Desktop\ConsoleAposentadoria\ConsoleAposentadoria\obj\Debug\ConsoleAposentadoria.pdb
+C:\Users\PICHAU\Desktop\ConsoleAposentadoria\ConsoleAposentadoria\bin\Debug\ConsoleAposentadoria.exe.config
+C:\Users\PICHAU\Desktop\ConsoleAposentadoria\ConsoleAposentadoria\bin\Debug\ConsoleAposentadoria.exe
+C:\Users\PICHAU\Desktop\ConsoleAposentadoria\ConsoleAposentadoria\bin\Debug\ConsoleAposentadoria.pdb
